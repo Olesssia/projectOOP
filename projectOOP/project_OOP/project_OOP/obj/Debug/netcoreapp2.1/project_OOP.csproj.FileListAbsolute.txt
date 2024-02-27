@@ -1,0 +1,13 @@
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\bin\Debug\netcoreapp2.1\project_OOP.deps.json
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\bin\Debug\netcoreapp2.1\project_OOP.runtimeconfig.json
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\bin\Debug\netcoreapp2.1\project_OOP.runtimeconfig.dev.json
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\bin\Debug\netcoreapp2.1\project_OOP.dll
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\bin\Debug\netcoreapp2.1\project_OOP.pdb
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.csproj.AssemblyReference.cache
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.AssemblyInfoInputs.cache
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.AssemblyInfo.cs
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.csproj.CoreCompileInputs.cache
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.dll
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.pdb
+D:\Programming\ProgrammingBasics\ProjectsC#\projectOOP\project_OOP\project_OOP\obj\Debug\netcoreapp2.1\project_OOP.genruntimeconfig.cache
